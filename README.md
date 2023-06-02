@@ -13,4 +13,4 @@
   1. 기술가이드, API 문서 등 업무를 위해 소통하는 법 이해하기
   2. API 가이드 문서(초안) 작성하기
 
-## [2차 과제물](SW 활용 현황 API 가이드 문서.pdf)
+## [2차 과제물](https://github.com/ByulBam/comento/blob/main/SW%20%ED%99%9C%EC%9A%A9%20%ED%98%84%ED%99%A9%20API%20%EA%B0%80%EC%9D%B4%EB%93%9C%20%EB%AC%B8%EC%84%9C.pdf)
